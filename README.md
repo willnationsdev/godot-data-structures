@@ -5,7 +5,7 @@ Godot starts out with `Array`, `Dictionary` (for HashMaps), and the `Node` and `
 
 The intent is to create data types that fulfill new requirements at maximum efficiency and work out-of-the-box.
 
-[Jump to Data Structure List](https://github.com/willnationsdev/godot-next#data-structures)
+[Jump to Data Structure List](https://github.com/willnationsdev/godot-data-structures#data-structures)
 
 ## How to Use
 
